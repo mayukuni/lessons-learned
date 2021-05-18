@@ -1,8 +1,22 @@
 body {
   background-color: rgb(253, 251, 251);
+  margin: 70px;
 }
 
 #cabecalho {
   position: fixed;
   top: 0;
+}
+
+#navegacao, #secao, article, aside {
+  padding-bottom: 20px;
+}
+
+#secao, article {
+  padding-top: 20px;
+}
+
+#minha_foto {
+  border: 10px solid pink;
+  margin-bottom: 20px;
 }
