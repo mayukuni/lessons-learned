@@ -8,11 +8,11 @@ body {
   top: 0;
 }
 
-#navegacao, #secao, article, aside {
+#navegacao,#secao,article,aside {
   padding-bottom: 20px;
 }
 
-#secao, article {
+#secao,article {
   padding-top: 20px;
 }
 
@@ -20,3 +20,5 @@ body {
   border: 10px solid pink;
   margin-bottom: 20px;
 }
+
+
