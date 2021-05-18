@@ -1,11 +1,13 @@
 body {
   background-color: rgb(253, 251, 251);
-  margin: 70px;
+  margin: 90px;
 }
 
 #cabecalho {
   position: fixed;
   top: 0;
+  color: rgb(114, 31, 45); 
+  font-size: 20px;
 }
 
 #navegacao , #secao , article , aside {
@@ -14,9 +16,16 @@ body {
 
 #secao , article {
   padding-top: 20px;
+  size: 20px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 0.5px;
 }
 
 #minha_foto {
   border: 10px solid pink;
   margin-bottom: 20px;
+}
+
+table {
+  letter-spacing: 2px;
 }
